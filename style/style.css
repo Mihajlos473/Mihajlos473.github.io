@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap");
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+    width: 100%;
+    background-color: royalblue;
+}
+li {
+    float: left;
+  }
+  
+li a {
+    font-weight: 1000;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    line-height: 2em;
+}
+li a:hover {
+    background-color: yellow;
+  }
+.my_content {
+    max-width: 600px;
+    margin: auto;
+    font-weight: 600;
+    padding-bottom: 100px;
+}
+.center {
+    text-align: center;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.UUyTQYJmDSjzLe4gPNUGGgHaDX&pid=Api&P=0&w=397&h=181");
+    
+}
+h1 {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}
+
+/*align_canter{
+    text-align: center;
+} I wanted to get something done and thought that this was the way to do it, but it wasn't and, because I didn't know how this block of code worked, I decided to leave it as a comment*/
+    
